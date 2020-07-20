@@ -1,0 +1,14 @@
+🕹 New game repository:
+OpenTowers
+Modes:
+Pixel tower (similar to Tiny Tower/Tiny Tower Vegas)
+▪ Import ideas from yesterday
+▪ The option to change elevator speed
+▪ True automatic elevator mode: it will bring people to the right floor automatically, after a set duration after entry
+■ PROMOTE TINY TOWER
+▪ Separate casino tower, unlocks when you unlock the casino floor
+▪ PixBook - automated messaging, plus export options
+Simulation tower (similar to Sim Tower/Yoot Tower)
+▪ Multiple elevators
+▪ No building limits (except x = 2**30 y = 2**30)
+▪ New save format, plus importing from Yoot tower
